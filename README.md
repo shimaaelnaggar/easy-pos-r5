@@ -1,16 +1,54 @@
-# easy_pos_r5
+# Easy POS
 
-A new Flutter project.
+A Flutter-based Point of Sale (POS) application designed to manage products, categories, clients, and sales through a simple and user-friendly interface.
+
+## Features
+
+- Product Management
+- Category Management
+- Client Management
+- Sales Management
+- Sales Statistics
+- Local SQLite Database
+- Responsive UI
+- Onboarding Screen
+
+## Tech Stack
+
+- Flutter
+- Dart
+- SQLite
+- GetIt
+- DataTable2
+- Intl
+- Animate_Do
+
+## Project Structure
+
+```
+lib
+├── helpers
+├── models
+├── views
+├── widgets
+└── main.dart
+```
+
+## Screenshots
+
+Coming Soon
+
+## Demo
+
+Coming Soon
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+```bash
+flutter pub get
+flutter run
+```
 
-A few resources to get you started if this is your first Flutter project:
+## Author
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Shaimaa Elnaggar
