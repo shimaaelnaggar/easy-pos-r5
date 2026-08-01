@@ -6,6 +6,10 @@ A Flutter-based Point of Sale (POS) application designed to manage products, cat
 
 - Product Management
 - Category Management
+
+
+
+
 - Client Management
 - Sales Management
 - Sales Statistics
@@ -49,8 +53,9 @@ lib
 | ![](assets/screenshots/clients.jpeg) | ![](assets/screenshots/statics.jpeg) |
 
 ## Demo
+Watch the demo here:
+https://youtube.com/shorts/Y51alEYx7Xw?feature=share
 
-Coming Soon
 
 ## Getting Started
 
