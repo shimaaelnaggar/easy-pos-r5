@@ -36,7 +36,17 @@ lib
 
 ## Screenshots
 
-Coming Soon
+| Splash | Home |
+|--------|------|
+| ![](assets/screenshots/splash.png) | ![](assets/screenshots/home.png) |
+
+| Products | Categories |
+|----------|------------|
+| ![](assets/screenshots/products.png) | ![](assets/screenshots/categories.png) |
+
+| Clients | Statistics |
+|---------|------------|
+| ![](assets/screenshots/clients.png) | ![](assets/screenshots/statistics.png) |
 
 ## Demo
 
@@ -49,6 +59,7 @@ flutter pub get
 flutter run
 ```
 
-## Author
-
-Shaimaa Elnaggar
+## What I Learned
+Working with SQLite local database.
+Building CRUD operations.
+Managing product and sales data.
