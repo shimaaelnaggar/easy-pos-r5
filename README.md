@@ -38,15 +38,15 @@ lib
 
 | Splash | Home |
 |--------|------|
-| ![](assets/screenshots/splash.png) | ![](assets/screenshots/home.png) |
+| ![](assets/screenshots/splash.jpeg) | ![](assets/screenshots/home.jpeg) |
 
 | Products | Categories |
 |----------|------------|
-| ![](assets/screenshots/products.png) | ![](assets/screenshots/categories.png) |
+| ![](assets/screenshots/products.jpeg) | ![](assets/screenshots/categories.jpeg) |
 
 | Clients | Statistics |
 |---------|------------|
-| ![](assets/screenshots/clients.png) | ![](assets/screenshots/statistics.png) |
+| ![](assets/screenshots/clients.jpeg) | ![](assets/screenshots/statistics.jpeg) |
 
 ## Demo
 
@@ -60,6 +60,6 @@ flutter run
 ```
 
 ## What I Learned
-Working with SQLite local database.
-Building CRUD operations.
-Managing product and sales data.
+- Working with SQLite local database.
+- Building CRUD operations.
+- Managing product and sales data.
