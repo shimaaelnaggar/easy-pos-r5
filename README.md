@@ -44,9 +44,9 @@ lib
 |----------|------------|
 | ![](assets/screenshots/products.jpeg) | ![](assets/screenshots/categories.jpeg) |
 
-| Clients | Statistics |
+| Clients | Statics |
 |---------|------------|
-| ![](assets/screenshots/clients.jpeg) | ![](assets/screenshots/statistics.jpeg) |
+| ![](assets/screenshots/clients.jpeg) | ![](assets/screenshots/statics.jpeg) |
 
 ## Demo
 
